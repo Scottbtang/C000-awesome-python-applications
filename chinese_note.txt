@@ -1,0 +1,14 @@
+
+Canto - RSS守护进程和基于curses的客户端
+Deluge - 流行，轻量级，跨平台的BitTorrent客户端。
+gPodder - 简单，成熟的媒体聚合器和播客客户端。(linux, windows, mac, gtk)
+Neubot - 为网络中立性研究收集数据的轻量级代理
+Pi-Hole -Linux网络级广告和互联网跟踪器阻止应用程序，充当DNS缓存服务器(linux)
+Planet - RSS 新闻聚合器，旨在收集来自Internet社区成员的博客的帖子并将其显示在单个页面上。
+Qute Browser - 一款很小的开源浏览器(linux, windows, mac, qt5)
+Reddit - 社交新闻论坛，有投票，评论等功能。
+SABnzbd - 一款简单的跨平台新闻阅读器，可从Usenet下载。支持多种集成和16种语言。(linux, windows, mac)
+Tribler - BitTorrent 客户端 Tribler(linux, windows, mac, qt5)
+You-Get - 命令行视频下载工具。(linux, windows, mac)
+youtube-dl - 命令行程序，youtube视频下载工具。(linux, windows, mac)
+ZeroNet - 利用比特币的加密算法和BitTorrent技术提供的不受审查的网络(linux, windows, mac)
